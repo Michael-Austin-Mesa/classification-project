@@ -66,6 +66,7 @@ My initial hypothesis is that drivers of churn will likely be features that rela
 - Customers who are senior citizens have a 20% higher chance of churning
 - Customers who do not have internet service have a 25% higher chance of churning
 - Having multiple lines with phone service is a driver of churn with weak influence
+- Model performs 6% higher than baseline predictions.
 
 # Recommendations
 - Possible limited time discounts to customers who are likely to churn within the featured demographics.
